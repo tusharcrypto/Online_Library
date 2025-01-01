@@ -1,0 +1,44 @@
+
+.item{
+  display: flex;
+  flex-wrap: wrap;
+  height: 700px;
+}
+.eachbook{
+  display: flex;
+   gap: 10px;
+  margin: 5px;
+  flex-wrap: nowrap;
+  width: 400px;
+  height: 200px;
+  background-color: #fbfbfb;
+  box-shadow: 4px 8px 8px rgb(240, 200, 200);
+  padding: 10px 5px;
+  border-radius: 10px;
+}
+.eachbook img{
+  padding: 2px;
+}
+.title{
+  font-size: 22px;
+  color: rgb(135, 199, 132);
+  font-family: sans-serif;
+}
+
+.author{
+  font-size: 20px;
+  color: brown;
+}
+.top{
+  width: 600px;
+  height: 600px;
+  margin: 10px 0px;
+}
+.topbook{
+  display: flex;
+}
+.heading{
+  text-align: center;
+  color: rgb(178, 123, 180);
+  font-size: 40px;
+}

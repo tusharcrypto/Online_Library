@@ -1,0 +1,36 @@
+.Bookdetails{
+  box-shadow: 6px 10px 10px;
+  background-color: rgb(104, 70, 131);
+  margin: 10px 240px;
+  width: 70%;
+  height: 600px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.infobook{
+  width: 550px;
+  margin-top: 30px;
+  /* margin-left: 100px; */
+}
+.infobook .title{
+  color: rgb(116, 122, 236);
+  font-size: 28px;
+}
+.infobook .author{
+  font-size: 28px;
+  font-family: sans-serif;
+}
+.infobook .des{
+  color:cadetblue;
+  font-size: 28px;
+}
+.Bookdetails img{
+  height: 500px;
+  margin: 30px;
+  padding: 5px;
+}
+.rating {
+  font-size: 1.5em;
+  color: rgb(234, 216, 117);
+}

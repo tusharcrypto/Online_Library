@@ -1,0 +1,37 @@
+.navbar{
+  background-color: powderblue;
+  display: flex;
+  align-items: center;
+  border-radius: 15px;
+  margin: 10px 65px;
+  position: relative;
+  left: 100px;
+  width: 80%;
+}
+ul{
+  display: flex;
+  list-style: none;
+  gap: 80px;
+  position: absolute;
+  right: 30%;
+}
+.logo{
+  width: 80px;
+  padding: 5px;
+  margin-left: 35px;
+ 
+
+}
+.lk{
+text-decoration: none;
+color: rgb(82, 22, 137);
+font-family: sans-serif;
+font-size: 20px;
+}
+.lk:hover{
+ color: rgb(184, 50, 50);
+ text-decoration:underline;
+}
+.lk:active{
+  color: green;
+}

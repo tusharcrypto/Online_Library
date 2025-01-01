@@ -1,0 +1,28 @@
+
+.brobook{
+  background-color: rgb(241, 216, 240);
+  margin: 10px 00px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.category{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.sarchbar{
+  width: 350px;
+  padding: 10px; 
+  border-radius: 5px;
+  margin: 5px;
+  border: none;
+}
+
+.catlist{
+  border-radius: 4px;
+  padding: 4px;
+  border: none;
+}
