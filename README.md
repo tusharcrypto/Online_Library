@@ -26,7 +26,5 @@ Follow these steps to set up the project locally:
    ```bash
    git clone https://github.com/yourusername/online-library-management.git
    cd online-library-management
-npm install
-# or
-yarn install
+2. npm install
 
